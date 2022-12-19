@@ -1,0 +1,2 @@
+# GitKursu
+Deneme
